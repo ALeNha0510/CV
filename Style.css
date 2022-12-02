@@ -100,7 +100,7 @@ p{
     width: 40%;
     height: 100%;
     transform-origin: left;
-    background-color: rgba(93, 177, 255, 0.5);
+    background-color: rgb(93, 177, 255);
     animation: progress 3s 1;
     animation-delay: 2s;
   }   
